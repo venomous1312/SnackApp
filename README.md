@@ -24,7 +24,7 @@ SnackApp is a custom-built web application designed to streamline local delivery
 * **License:** MIT License (allows for open viewing, protects original authorship)
 
 ### 🏗️ How to Run Locally
-1. Clone the repository: `git clone https://github.com/your-username/SnackApp.git`
+1. Clone the repository: `git clone https://github.com/venomous1312/SnackApp.git`
 2. Install requirements: `pip install -r requirements.txt`
 3. Run migrations: `python manage.py migrate`
 4. Start server: `python manage.py runserver`
